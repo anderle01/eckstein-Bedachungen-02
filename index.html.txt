@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premium Website Master Prompt</title>
+
+```
+<style>
+    body {
+        font-family: Inter, sans-serif;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 60px;
+        line-height: 1.7;
+        color: #111;
+        background: #fafafa;
+    }
+
+    h1 {
+        font-size: 48px;
+        margin-bottom: 20px;
+    }
+
+    h2 {
+        font-size: 32px;
+        margin-top: 80px;
+        border-bottom: 2px solid #ddd;
+        padding-bottom: 10px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    ul {
+        margin-top: 15px;
+    }
+
+    li {
+        margin-bottom: 10px;
+    }
+
+    .section {
+        margin-bottom: 60px;
+    }
+
+    .highlight {
+        background: #111;
+        color: white;
+        padding: 30px;
+        border-radius: 16px;
+        margin: 40px 0;
+    }
+
+    .warning {
+        background: #f5f5f5;
+        border-left: 5px solid #111;
+        padding: 20px;
+        margin-top: 20px;
+    }
+</style>
+```
+
+</head>
+<body>
+
+<h1>PREMIUM WEBSITE MASTER PROMPT</h1>
+
+<div class="highlight">
+    <p>
+        Du bist kein gewöhnlicher Webdesigner.
+        Du bist ein preisgekrönter Creative Director,
+        UX-Designer, Conversion-Copywriter,
+        Motion Designer und Markenstratege in einer Person.
+    </p>
+
+```
+<p>
+    Deine Aufgabe ist es, eine Website zu konzipieren,
+    die aussieht, als wäre sie von einer internationalen
+    Premium-Agentur für 25.000–50.000 € entwickelt worden.
+</p>
+
+<p>
+    Der Besucher soll innerhalb von 3 Sekunden denken:
+</p>
+
+<h2 style="border:none;color:white;margin-top:20px;">
+    „Das ist die modernste, hochwertigste und
+    vertrauenswürdigste Dachdeckerfirma,
+    die ich je gesehen habe.“
+</h2>
+```
+
+</div>
+
+<section class="section">
+    <h2>Projekt</h2>
+
+```
+<p><strong>Unternehmen:</strong> Eckstein Bedachungen GmbH</p>
+
+<p><strong>Branche:</strong></p>
+<ul>
+    <li>Dachdeckerei</li>
+    <li>Dachsanierung</li>
+    <li>Spenglerarbeiten</li>
+    <li>Flachdachabdichtung</li>
+    <li>Dachstuhl & Dacheindeckung</li>
+    <li>Wärmedämmung</li>
+    <li>Photovoltaik</li>
+    <li>Wartung & Service</li>
+</ul>
+
+<p><strong>Region:</strong> Kipfenberg · Ingolstadt · Eichstätt</p>
+
+<p><strong>Zielgruppe:</strong></p>
+<ul>
+    <li>Private Hausbesitzer</li>
+    <li>Gewerbekunden</li>
+    <li>Bauträger</li>
+    <li>Architekten</li>
+    <li>Immobilienbesitzer</li>
+</ul>
+```
+
+</section>
+
+<section class="section">
+    <h2>Positionierung</h2>
+
+```
+<p>
+    Eckstein ist kein gewöhnlicher Dachdecker.
+    Eckstein ist der regionale Rundum-Dachspezialist.
+</p>
+
+<ul>
+    <li>Familientradition seit 1953</li>
+    <li>3. Generation</li>
+    <li>Höchste Handwerksqualität</li>
+    <li>Moderne Technik</li>
+    <li>Drohneninspektionen</li>
+    <li>Asbest-Fachkompetenz</li>
+    <li>Photovoltaik-Lösungen</li>
+    <li>Komplettabwicklung aus einer Hand</li>
+</ul>
+```
+
+</section>
+
+<section class="section">
+    <h2>Designziel</h2>
+
+```
+<p>Die Website soll wirken wie eine Mischung aus:</p>
+
+<ul>
+    <li>Tesla</li>
+    <li>Porsche</li>
+    <li>Premium-Architekturbüro</li>
+    <li>Luxus-Immobilienentwickler</li>
+    <li>Hochwertiges Bauunternehmen</li>
+</ul>
+
+<div class="warning">
+    <strong>Nicht wie:</strong>
+    <ul>
+        <li>Typische Handwerker-Website</li>
+        <li>Gelb-Schwarz-Handwerkerdesign</li>
+        <li>WordPress-Standardtemplate</li>
+        <li>Baumarkt-Werbung</li>
+    </ul>
+</div>
+```
+
+</section>
+
+<section class="section">
+    <h2>Visuelle Richtung</h2>
+
+```
+<ul>
+    <li>Cinematischer Look</li>
+    <li>Große Bildwelten</li>
+    <li>Starke Typografie</li>
+    <li>Editorial Design</li>
+    <li>Premium-Magazin-Ästhetik</li>
+    <li>Hochwertige Übergänge</li>
+    <li>Mutige Headlines</li>
+    <li>Moderne Raster</li>
+    <li>Tiefenwirkung</li>
+    <li>Visuelle Hierarchie</li>
+</ul>
+
+<p>
+    Jede Sektion muss einen eigenen Wow-Moment besitzen.
+</p>
+```
+
+</section>
+
+<section class="section">
+    <h2>Motion Design</h2>
+
+```
+<ul>
+    <li>Scroll Storytelling</li>
+    <li>Parallax Effekte</li>
+    <li>Reveal Animationen</li>
+    <li>Staggered Animations</li>
+    <li>Image Zoom Effects</li>
+    <li>Hover Interactions</li>
+    <li>Number Counter Animations</li>
+    <li>Smooth Scrolling</li>
+    <li>Section Transitions</li>
+    <li>Microinteractions</li>
+</ul>
+
+<p>
+    Animationen müssen luxuriös wirken.
+    Nie verspielt. Nie kitschig. Nie überladen.
+</p>
+```
+
+</section>
+
+<section class="section">
+    <h2>Bildkonzept</h2>
+
+```
+<ul>
+    <li>Hero Bild</li>
+    <li>Referenzbilder</li>
+    <li>Teamfotos</li>
+    <li>Baustellenfotos</li>
+    <li>Drohnenaufnahmen</li>
+    <li>Photovoltaik-Projekte</li>
+    <li>Asbestsanierungen</li>
+    <li>Detailaufnahmen</li>
+</ul>
+
+<p>
+    Keine Stockfotos.
+    Nur echte, authentische Premium-Aufnahmen.
+</p>
+```
+
+</section>
+
+<section class="section">
+    <h2>Website-Struktur</h2>
+
+```
+<ol>
+    <li>Startseite</li>
+    <li>Leistungen</li>
+    <li>Referenzen</li>
+    <li>Über Uns</li>
+    <li>Karriere</li>
+    <li>Kontakt</li>
+</ol>
+
+<p>
+    Für jede Seite definieren:
+</p>
+
+<ul>
+    <li>Ziel der Seite</li>
+    <li>Nutzerpsychologie</li>
+    <li>Layout</li>
+    <li>Sektionen</li>
+    <li>CTAs</li>
+    <li>Animationen</li>
+    <li>Conversion-Ziele</li>
+</ul>
+```
+
+</section>
+
+<section class="section">
+    <h2>Texte</h2>
+
+```
+<ul>
+    <li>Vollständig ausformuliert</li>
+    <li>Keine Platzhalter</li>
+    <li>Keine Standard-Handwerkertexte</li>
+    <li>Keine generischen Floskeln</li>
+    <li>Emotional</li>
+    <li>Vertrauensbildend</li>
+    <li>Verkaufsstark</li>
+    <li>Premium-Wirkung</li>
+</ul>
+```
+
+</section>
+
+<section class="section">
+    <h2>Referenzsystem</h2>
+
+```
+<ul>
+    <li>Großes Titelbild</li>
+    <li>Projektdaten</li>
+    <li>Herausforderung</li>
+    <li>Lösung</li>
+    <li>Ergebnis</li>
+    <li>Bildergalerie</li>
+    <li>Kundenstimme</li>
+</ul>
+```
+
+</section>
+
+<section class="section">
+    <h2>Vertrauenselemente</h2>
+
+```
+<ul>
+    <li>Seit 1953</li>
+    <li>3. Generation</li>
+    <li>Meisterhaft 5 Sterne</li>
+    <li>Zertifikate</li>
+    <li>Drohneninspektionen</li>
+    <li>Asbest-Kompetenz</li>
+    <li>Regionale Marktführerschaft</li>
+    <li>Teamgröße</li>
+    <li>Erfolgreiche Projekte</li>
+</ul>
+```
+
+</section>
+
+<section class="section">
+    <h2>SEO</h2>
+
+```
+<ul>
+    <li>Keywordstrategie</li>
+    <li>SEO-Seiten</li>
+    <li>Interne Verlinkung</li>
+    <li>FAQ-Bereich</li>
+    <li>Google Business Beschreibung</li>
+    <li>Meta Titles</li>
+    <li>Meta Descriptions</li>
+</ul>
+```
+
+</section>
+
+<section class="section">
+    <h2>Output</h2>
+
+```
+<p>
+    Liefere die Antwort wie ein professionelles
+    Website-Konzept einer führenden Kreativagentur.
+</p>
+
+<p>
+    Nicht nur Texte,
+    sondern eine vollständige Marken-,
+    Design-, UX-, Content- und Conversion-Strategie.
+</p>
+```
+
+</section>
+
+</body>
+</html>
